@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0">
+  <head>
+    <title>RSS Guard</title>
+    <dateCreated>Wed, 06 May 2015 15:35:49 GMT</dateCreated>
+  </head>
+  <body>
+    <outline description="funtoo" text="funtoo">
+      <outline title="wiki" version="ATOM" description="" encoding="UTF-8" xmlUrl="http://www.funtoo.org/api.php?hidebots=1&amp;days=30&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom" text="wiki"/>
+      <outline title="Forums Feed" version="RSS" description="All the latest forum posts" encoding="UTF-8" xmlUrl="http://forums.funtoo.org/rss/forums/1-forums-feed/" text="Forums Feed"/>
+      <outline title="bugs" version="ATOM" description="bugs" encoding="UTF-8" xmlUrl="https://bugs.funtoo.org/activity?maxResults=10&amp;providers=issues&amp;title=undefined" text="bugs"/>
+      <outline title="news" version="ATOM" description="news" encoding="UTF-8" xmlUrl="http://www.funtoo.org/Special:Ask/-5B-5BCategory:News-5D-5D-20-5B-5BPublication-20Status::Published-5D-5D/format=feed/limit=20/sort=Publication-20Date/order=descending/type=atom" text="news"/>
+    </outline>
+  </body>
+</opml>
